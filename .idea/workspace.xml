@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring2020B18_Java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yun5NEJaXOSJTcITZmjpzghILU" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+      <recent name="Day24_method" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day28_DateTime" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayList_Reverse">
+    <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.ArrayList_Reverse" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calis.Boolean" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Maaaaaaax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calis.Maaaaaaax" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SomeOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.SomeOfDigits" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperClassPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day29_Wrapper_ArrayList.WrapperClassPractice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day29_Wrapper_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayList_Reverse" />
+        <item itemvalue="Application.SomeOfDigits" />
+        <item itemvalue="Application.WrapperClassPractice" />
+        <item itemvalue="Application.Maaaaaaax" />
+        <item itemvalue="Application.Boolean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="" />
+      <created>1583801162783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583801162783</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="178" key="#Scopes" timestamp="1583949967169">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="178" key="#Scopes/0.0.1920.1032@0.0.1920.1032" timestamp="1583949967169" />
+    <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586758600120">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="409" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758600120" />
+    <state x="648" y="312" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1587619239757">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="648" y="312" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587619239757" />
+    <state x="623" y="253" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586758596943">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="253" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758596943" />
+    <state x="738" y="585" width="503" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585599146321">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="738" y="585" width="503" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1032@0.0.1920.1032" timestamp="1585599146321" />
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587432285827">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587432285827" />
+    <state x="0" y="702" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583885913163">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="702" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1032@0.0.1920.1032" timestamp="1583885913163" />
+    <state x="1179" y="265" key="FileChooserDialogImpl" timestamp="1585973235266">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1179" y="265" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1585973235266" />
+    <state width="1168" height="108" key="GridCell.Tab.0.bottom" timestamp="1588085278093">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
+    <state width="1168" height="108" key="GridCell.Tab.0.center" timestamp="1588085278093">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="108" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
+    <state width="1168" height="108" key="GridCell.Tab.0.left" timestamp="1588085278093">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="108" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
+    <state width="1168" height="108" key="GridCell.Tab.0.right" timestamp="1588085278093">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="108" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
+    <state width="1168" height="339" key="GridCell.Tab.1.bottom" timestamp="1588054888112">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588054888112" />
+    <state width="1168" height="339" key="GridCell.Tab.1.center" timestamp="1588054888112">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="339" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588054888112" />
+    <state width="1168" height="339" key="GridCell.Tab.1.left" timestamp="1588054888112">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="339" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588054888112" />
+    <state width="1168" height="339" key="GridCell.Tab.1.right" timestamp="1588054888112">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1168" height="339" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588054888112" />
+    <state x="492" y="0" key="SettingsEditor" timestamp="1583951067547">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="492" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583951067547" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586758491518">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758491518" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1586758491518">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758491518" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1588082105435">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1588082105435" />
+    <state x="708" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586028266615">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="708" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1586028266615" />
+    <state x="407" y="676" width="1052" height="758" key="dock-window-1" timestamp="1585319606192">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="407" y="676" width="1052" height="758" key="dock-window-1/0.0.1920.1032@0.0.1920.1032" timestamp="1585319606192" />
+    <state x="678" y="0" width="929" height="1032" key="find.popup" timestamp="1585973628806">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="678" y="0" width="929" height="1032" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1585973628806" />
+    <state x="-158" y="68" key="new project wizard" timestamp="1587670028280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="-158" y="68" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1587670028280" />
+    <state x="367" y="122" width="840" height="1034" key="search.everywhere.popup" timestamp="1585969181621">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="367" y="122" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1585969181621" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$removeDeplicates.ic" NAME="removeDeplicates Coverage Results" MODIFIED="1586758681412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MyselfStudy.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$Scanner_Next.ic" NAME="Scanner_Next Coverage Results" MODIFIED="1585329428613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Day12.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$Scanner_practice1.ic" NAME="Scanner_practice1 Coverage Results" MODIFIED="1585241506115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day11_scanner.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$scannerClass.ic" NAME="scannerClass Coverage Results" MODIFIED="1585239651442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day11_scanner.*</FILTER>
+    </SUITE>
+  </component>
+</project>
