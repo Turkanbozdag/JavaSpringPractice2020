@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="" />
+    <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day30_ArrayList/Uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day30_ArrayList/besinci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day30_ArrayList/dorduncu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,13 +26,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yun5NEJaXOSJTcITZmjpzghILU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
     <option name="showExcludedFiles" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -42,26 +53,13 @@
       <recent name="Day28_DateTime" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Reverse">
+  <component name="RunManager" selected="Application.dorduncu">
     <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.ArrayList_Reverse" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day30_ArrayList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calis.Boolean" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="dorduncu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.dorduncu" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dorduncu" />
         <item itemvalue="Application.ArrayList_Reverse" />
         <item itemvalue="Application.SomeOfDigits" />
         <item itemvalue="Application.WrapperClassPractice" />
         <item itemvalue="Application.Maaaaaaax" />
-        <item itemvalue="Application.Boolean" />
       </list>
     </recent_temporary>
   </component>
@@ -164,22 +175,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1179" y="265" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1585973235266" />
-    <state width="1168" height="108" key="GridCell.Tab.0.bottom" timestamp="1588085278093">
+    <state width="886" height="108" key="GridCell.Tab.0.bottom" timestamp="1588087399468">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1168" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
-    <state width="1168" height="108" key="GridCell.Tab.0.center" timestamp="1588085278093">
+    <state width="886" height="108" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588087399468" />
+    <state width="886" height="108" key="GridCell.Tab.0.center" timestamp="1588087399468">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1168" height="108" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
-    <state width="1168" height="108" key="GridCell.Tab.0.left" timestamp="1588085278093">
+    <state width="886" height="108" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588087399468" />
+    <state width="886" height="108" key="GridCell.Tab.0.left" timestamp="1588087399468">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1168" height="108" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
-    <state width="1168" height="108" key="GridCell.Tab.0.right" timestamp="1588085278093">
+    <state width="886" height="108" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588087399468" />
+    <state width="886" height="108" key="GridCell.Tab.0.right" timestamp="1588087399468">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1168" height="108" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588085278093" />
+    <state width="886" height="108" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588087399468" />
     <state width="1168" height="339" key="GridCell.Tab.1.bottom" timestamp="1588054888112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
