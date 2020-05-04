@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_containsAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day32/CollectionsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrmUpmay4/ExtractChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrmUpmay4/ExtractChars2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WrmUpmay4/LinkedHasSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calis/ifnew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/besinci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/dorduncu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/besinci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/CombineTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/dorduncu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/Uniquess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/ArrayList_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/ArrayList_Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +55,17 @@
       <recent name="Day24_method" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="WrmUpmay4" />
       <recent name="Day28_DateTime" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Methods">
-    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.ArrayList_Methods" />
+  <component name="RunManager" selected="Application.CarObject">
+    <configuration name="CarObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_CustomClass.CarObject" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="PATTERN" value="Day33_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.ArrayList_Reverse" />
+    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrmUpmay4.Duplicates" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="PATTERN" value="WrmUpmay4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CombineTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.CombineTwoArrays" />
+    <configuration name="ExtractChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrmUpmay4.ExtractChars" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="PATTERN" value="WrmUpmay4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomeOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.SomeOfDigits" />
+    <configuration name="ExtractChars2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrmUpmay4.ExtractChars2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="PATTERN" value="WrmUpmay4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniquess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day30_ArrayList.Uniquess" />
+    <configuration name="ExtractChars3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WrmUpmay4.ExtractChars3" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day30_ArrayList.*" />
+          <option name="PATTERN" value="WrmUpmay4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayList_Methods" />
-        <item itemvalue="Application.CombineTwoArrays" />
-        <item itemvalue="Application.Uniquess" />
-        <item itemvalue="Application.ArrayList_Reverse" />
-        <item itemvalue="Application.SomeOfDigits" />
+        <item itemvalue="Application.CarObject" />
+        <item itemvalue="Application.ExtractChars3" />
+        <item itemvalue="Application.ExtractChars2" />
+        <item itemvalue="Application.ExtractChars" />
+        <item itemvalue="Application.Duplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +149,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="728" y="154" key="#Project_Structure" timestamp="1588407409985">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="728" y="154" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1588407409985" />
     <state x="0" y="178" key="#Scopes" timestamp="1583949967169">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -176,22 +185,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1179" y="265" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1585973235266" />
-    <state width="1168" height="156" key="GridCell.Tab.0.bottom" timestamp="1588090481610">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1864" height="270" key="GridCell.Tab.0.bottom" timestamp="1588608545258">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1168" height="156" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588090481610" />
-    <state width="1168" height="156" key="GridCell.Tab.0.center" timestamp="1588090481610">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1864" height="270" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588608545258" />
+    <state width="927" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1588435020629" />
+    <state width="1864" height="270" key="GridCell.Tab.0.center" timestamp="1588608545258">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1168" height="156" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588090481610" />
-    <state width="1168" height="156" key="GridCell.Tab.0.left" timestamp="1588090481610">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1864" height="270" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588608545258" />
+    <state width="927" height="206" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1588435020629" />
+    <state width="1864" height="270" key="GridCell.Tab.0.left" timestamp="1588608545258">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1168" height="156" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588090481610" />
-    <state width="1168" height="156" key="GridCell.Tab.0.right" timestamp="1588090481610">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state width="1864" height="270" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588608545258" />
+    <state width="927" height="206" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1588435020629" />
+    <state width="1864" height="270" key="GridCell.Tab.0.right" timestamp="1588608545258">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1168" height="156" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588090481610" />
+    <state width="1864" height="270" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588608545258" />
+    <state width="927" height="206" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1588435020629" />
     <state width="1168" height="339" key="GridCell.Tab.1.bottom" timestamp="1588054888112">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -212,6 +225,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="492" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583951067547" />
+    <state x="82" y="175" key="Vcs.Push.Dialog.v2" timestamp="1588560252148">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="82" y="175" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1588560252148" />
     <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586758491518">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -220,10 +237,11 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758491518" />
-    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1588082105435">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="2499" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1588600960549">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1588082105435" />
+    <state x="2499" y="309" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1588600960549" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1588559651551" />
     <state x="708" y="129" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586028266615">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -236,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="678" y="0" width="929" height="1032" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1585973628806" />
-    <state x="-158" y="68" key="new project wizard" timestamp="1587670028280">
+    <state x="77" y="63" key="new project wizard" timestamp="1588185641478">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="-158" y="68" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1587670028280" />
+    <state x="77" y="63" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1588185641478" />
     <state x="367" y="122" width="840" height="1034" key="search.everywhere.popup" timestamp="1585969181621">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

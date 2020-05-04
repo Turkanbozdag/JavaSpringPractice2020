@@ -1,6 +1,7 @@
 package Day30_ArrayList;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class ArrayList_Methods {
     public static void main(String[] args) {
@@ -24,7 +25,25 @@ public class ArrayList_Methods {
         List3.add(2);//1
         List3.add(3);//2
         List3.add(4);//3
+
+        int a=1;
+       // List3.remove(1);//{1,3,4}
+        List3.remove(a);
+        //Integer a=1;
+        List3.remove(a);//{2,3,4
         System.out.println(List3);
+        System.out.println("===========");
+        ArrayList<Integer>List4=new ArrayList<>();
+        List4.add(10);
+        List4.add(20);
+        List4.add(30);
+
+       // List4.remove(20);index out of bound
+        Integer a2=100;//object
+        //List4.remove(a2);
+        boolean r1=List4.remove(a2);//false
+        System.out.println(List4);
+        System.out.println(r1);
 
 
 
