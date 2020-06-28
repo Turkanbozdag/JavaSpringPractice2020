@@ -25,6 +25,7 @@ public class SomeOfDigits {
         String str="a1b2c3";
         char[]arr=str.toCharArray();
         System.out.println(Arrays.toString(arr));
+        System.out.println("=============");
         int sum=0;
         for (char each:arr){//'0',each element
             boolean isDigist=each>=48&& each<=57;// if each is digit,we will convert to int and add it to sum

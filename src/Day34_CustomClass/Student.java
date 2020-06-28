@@ -1,8 +1,8 @@
 package Day34_CustomClass;
 
 public class Student {
-    public static void main(String[] args) {
-/*
+
+
         String name;
         String nationality;
         int age;
@@ -23,6 +23,6 @@ public class Student {
         }
 
 
-*/
+
     }
-}
+

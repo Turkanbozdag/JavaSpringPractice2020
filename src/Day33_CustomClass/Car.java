@@ -19,16 +19,17 @@ public class Car {
         // System.out.println("model of the car is"+model);
         System.out.println(year + " " + Brand + " " + model + "" + color);
     }//profecnal
-        public void setCarInfo(String carBrand,String carModel,int caryear,String carColor){
+        public void setCarInfo(String carBrand,String carModel,int caryear,String carColor) {
             Brand = carBrand;
             model = carModel;
             year = caryear;
             color = carColor;
-
-
         }
+
+
+
         public String toString(){
-            String result=Brand+" "+year+""+model+""+color;
+            String result=Brand+" "+year+""+model+""+color;//otomoticly executed
             return result;
         }
         public static void main(String[]args){

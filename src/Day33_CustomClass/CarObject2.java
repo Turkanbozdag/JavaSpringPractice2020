@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class CarObject2 {
     public static void main(String[] args) {
         Car car1=new Car();
-        car1.setCarInfo("BMW","X6",2020,"Blue");
+        car1.setCarInfo("BMW"," X6 ",2020," Blue");
         car1.getCarInfo();
        //
         Car car2=new Car();
@@ -28,6 +28,7 @@ public class CarObject2 {
 
         }
         System.out.println("==================");
+        //System.out.println(car1);
         System.out.println(car1);
         ArrayList<Integer>list1=new ArrayList<>(Arrays.asList(1,2,3,4,5));
         System.out.println(list1);//toString method gets executed automatically

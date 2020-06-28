@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class StudentObject {
     public static void main(String[] args) {
-/*
+
 
         Student student1=new Student();
         student1.setStudentInfo("Adam","england",34,3.5,'M',true);
@@ -41,7 +41,7 @@ public class StudentObject {
             System.out.println(each.name+"can not graduate");
         }
 
-*/
+
 
     }
 }
