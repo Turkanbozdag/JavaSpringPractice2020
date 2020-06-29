@@ -2,226 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day35_Static/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day35_Static/StudentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day41_inheritance/task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day51_Recap/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day51_Recap/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day51_Recap/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day51_Recap/ShapesObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day51_Recap/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice1/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CARTask/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CARTask/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CARTask/CarShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CARTask/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CARTask/Jeep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeywordd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/Abstgract_vs_NonAbstract2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/FirefoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/OperaDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/RemoteWebDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/abstract_Vs_NonAbstract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/driverObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Abstraction01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Abstraction02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Interface_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/Samsung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/extends_implements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/iPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/phoneObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/subclass_Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_Abstraction/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/PhoneObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/Plymorphism_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day49_Polymorphisim/iPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/AnimalObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_polymorphism/ReferencetypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_collection/Collections_Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_collection/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_collection/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_collection/null_Keyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_collection/sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterartor_Maps/Collection_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterartor_Maps/Iteraring_Collections2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day53_Iterartor_Maps/Iterating_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/Bunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/Practice_05_20_2020/dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/jun10/FacebookUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/jun10/Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/jun10/SocialMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/jun10/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/may27_OOP/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/may27_OOP/methodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/officeHours/may27_OOP/methodOverriding2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Maps_practice1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/SomeOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day30_ArrayList/SomeOfDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day33_CustomClass/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day33_CustomClass/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day33_CustomClass/CarObject2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day33_CustomClass/CarObject2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day34_CustomClass/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day34_CustomClass/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day34_CustomClass/StudentObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day34_CustomClass/StudentObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Array_Size.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/ArraysUtilities.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Arrays_Equal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Arrays_int.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Boolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/COolectionn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Carr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Dates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Dates_formating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Eligibleee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/EqualNumberIfff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Iam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Maaaaaaax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/MultiBranchIfPrac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/SortsArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/SpecialExtraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/StringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/StringMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/Stringleriayirma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/a1b2c3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/carrrObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/combine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/combineToArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/days.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/differentway.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/equalmethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/freeequancy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/frequency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/hhh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/ifnew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/kim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/maxintanyArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/maxxx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/meyveler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/mondayuniques.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/monthWithArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/newwww.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/off.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/quizemon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/rep100.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/rep101.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/rep106.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/replit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/repsorusu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/rrr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/sayilarseksen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/ssss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/study.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/sundayfunday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/ters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/tersyapmak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/ucuncu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/uniii.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/unique.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/weekdays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/yyy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/calis/zoo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day08_IfStatements/Timer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day08_IfStatements/Timer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/Arraysutility.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/ForEachLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/Multi_DimentionalArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/SingleArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/StringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/office04_15/sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/SomeOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/SomeOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/CarObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/CarObject2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/StudentObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/StudentObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Array_Size.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/ArraysUtilities.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Arrays_Equal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Arrays_int.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Boolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/COolectionn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Carr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Dates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Dates_formating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Eligibleee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/EqualNumberIfff.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Iam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Maaaaaaax.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/MultiBranchIfPrac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/SortsArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/SpecialExtraction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/StringMethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/StringMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/Stringleriayirma.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/a1b2c3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/calculation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/carrrObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/combine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/combineToArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/days.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/differentway.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/equalmethod.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/example.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/freeequancy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/frequency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/hhh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/ifnew.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/kim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/maxintanyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/maxxx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/meyveler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/mondayuniques.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/monthWithArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/newwww.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/off.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/quizemon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/rep100.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/rep101.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/rep106.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/replit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/repsorusu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/rrr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/sayilarseksen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/ssss.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/study.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/sundayfunday.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/ters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/tersyapmak.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/ucuncu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/uniii.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/unique.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/weekdays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/yyy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calis/zoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day08_IfStatements/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day08_IfStatements/Timer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/Arraysutility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/Arraysutility.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/ForEachLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/ForEachLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/Multi_DimentionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/Multi_DimentionalArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/SingleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/SingleArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/StringMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/StringMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/office04_15/sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/officeHours/_04_29_2020/office04_15/sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +59,7 @@
       <recent name="Day28_DateTime" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Iteraring_Collections2">
+  <component name="RunManager" selected="Application.Maps_practice1">
     <configuration name="Collections_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaylyPractice.Collections_Utility" />
       <module name="Spring2020B18_Java" />
@@ -303,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaylyPractice.Q" />
+    <configuration name="Map_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_Intro" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DaylyPractice.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="null_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaylyPractice.null_Keyword" />
+    <configuration name="Maps_practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Maps_practice1" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DaylyPractice.*" />
+          <option name="PATTERN" value="day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Maps_practice1" />
+        <item itemvalue="Application.Map_Intro" />
         <item itemvalue="Application.Iteraring_Collections2" />
         <item itemvalue="Application.Collections_Utility" />
         <item itemvalue="Application.sets" />
-        <item itemvalue="Application.null_Keyword" />
-        <item itemvalue="Application.Q" />
       </list>
     </recent_temporary>
   </component>
@@ -404,25 +187,25 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1179" y="265" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1585973235266" />
-    <state width="1680" height="314" key="GridCell.Tab.0.bottom" timestamp="1593220389655">
+    <state width="1680" height="314" key="GridCell.Tab.0.bottom" timestamp="1593441724980">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593220389655" />
+    <state width="1680" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
     <state width="1844" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
-    <state width="1680" height="314" key="GridCell.Tab.0.center" timestamp="1593220389654">
+    <state width="1680" height="314" key="GridCell.Tab.0.center" timestamp="1593441724980">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593220389654" />
+    <state width="1680" height="314" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
     <state width="1844" height="266" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
-    <state width="1680" height="314" key="GridCell.Tab.0.left" timestamp="1593220389654">
+    <state width="1680" height="314" key="GridCell.Tab.0.left" timestamp="1593441724979">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593220389654" />
+    <state width="1680" height="314" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724979" />
     <state width="1844" height="266" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253628" />
-    <state width="1680" height="314" key="GridCell.Tab.0.right" timestamp="1593220389655">
+    <state width="1680" height="314" key="GridCell.Tab.0.right" timestamp="1593441724980">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593220389655" />
+    <state width="1680" height="314" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
     <state width="1844" height="266" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
     <state width="1864" height="340" key="GridCell.Tab.1.bottom" timestamp="1591504853577">
       <screen x="1920" y="0" width="1920" height="1080" />
@@ -456,11 +239,11 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1586758491518" />
-    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1593370265842">
-      <screen x="0" y="0" width="1920" height="1032" />
+    <state x="2499" y="318" key="com.intellij.ide.util.TipDialog" timestamp="1593439291072">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1590761678198" />
-    <state x="2499" y="318" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593172981525" />
+    <state x="2499" y="318" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593439291072" />
     <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1593370265842" />
     <state x="2628" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590207947582">
       <screen x="1920" y="0" width="1920" height="1080" />
