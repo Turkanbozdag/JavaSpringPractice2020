@@ -14,7 +14,12 @@ public class Maps_practice1 {
         classmates.put("Rumeysa",LocalDate.of(2016,02,11));
         classmates.put("Emir",LocalDate.of(2016,02,11));
 
+        System.out.println(classmates);
+        classmates.remove("turkan");
+        System.out.println(classmates);
 
+
+        System.out.println(classmates.get("rumeysa"));
 
 
 

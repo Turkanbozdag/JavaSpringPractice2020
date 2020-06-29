@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a2ac46d-9c1e-4c69-a0f1-2fb8204b7178" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Maps_practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Map_SetEntries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day54_Maps/Map_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day54_Maps/Map_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day54_Maps/Maps_practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day54_Maps/Maps_practice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_Maps/Map_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day54_Maps/Maps_practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_Maps/Maps_practice1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +62,7 @@
       <recent name="Day28_DateTime" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maps_practice1">
+  <component name="RunManager" selected="Application.Map_SetEntries">
     <configuration name="Collections_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaylyPractice.Collections_Utility" />
       <module name="Spring2020B18_Java" />
@@ -99,6 +102,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_SetEntries" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day54_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Maps_practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Maps.Maps_practice1" />
       <module name="Spring2020B18_Java" />
@@ -112,26 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DaylyPractice.sets" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DaylyPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Map_SetEntries" />
         <item itemvalue="Application.Maps_practice1" />
         <item itemvalue="Application.Map_Intro" />
         <item itemvalue="Application.Iteraring_Collections2" />
         <item itemvalue="Application.Collections_Utility" />
-        <item itemvalue="Application.sets" />
       </list>
     </recent_temporary>
   </component>
@@ -187,25 +190,25 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="1179" y="265" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1585973235266" />
-    <state width="1680" height="314" key="GridCell.Tab.0.bottom" timestamp="1593441724980">
+    <state width="1680" height="314" key="GridCell.Tab.0.bottom" timestamp="1593445435087">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
+    <state width="1680" height="314" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593445435087" />
     <state width="1844" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
-    <state width="1680" height="314" key="GridCell.Tab.0.center" timestamp="1593441724980">
+    <state width="1680" height="314" key="GridCell.Tab.0.center" timestamp="1593445435087">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
+    <state width="1680" height="314" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593445435087" />
     <state width="1844" height="266" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
-    <state width="1680" height="314" key="GridCell.Tab.0.left" timestamp="1593441724979">
+    <state width="1680" height="314" key="GridCell.Tab.0.left" timestamp="1593445435087">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724979" />
+    <state width="1680" height="314" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593445435087" />
     <state width="1844" height="266" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253628" />
-    <state width="1680" height="314" key="GridCell.Tab.0.right" timestamp="1593441724980">
+    <state width="1680" height="314" key="GridCell.Tab.0.right" timestamp="1593445435087">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1680" height="314" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593441724980" />
+    <state width="1680" height="314" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@1920.0.1920.1080" timestamp="1593445435087" />
     <state width="1844" height="266" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1589929253629" />
     <state width="1864" height="340" key="GridCell.Tab.1.bottom" timestamp="1591504853577">
       <screen x="1920" y="0" width="1920" height="1080" />
